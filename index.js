@@ -11,7 +11,7 @@ function updateClock() {
         document.getElementById("time-greeting-text").innerText = "Good morning."
     }
     else {
-        document.getElementById("time-greeting-text").innerText = "go to sleep you fucking idiot"
+        document.getElementById("time-greeting-text").innerText = "Good afternoon."
     }
 }
 
