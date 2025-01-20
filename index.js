@@ -27,7 +27,7 @@ function doSearch() {
             window.location.href = `https://www.bing.com/?q=${query}`
             break;
         case 'ddg':
-            window.location.href = `https://searx.be/search?q=${query}&language=auto&time_range=&safesearch=0&categories=general`
+            window.location.href = `https://seek.fyi/search?q=${query}&language=auto&time_range=&safesearch=0&categories=general`
     }
 }
 
